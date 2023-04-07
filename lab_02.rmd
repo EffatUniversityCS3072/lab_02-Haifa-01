@@ -75,7 +75,7 @@ o	Which combination has the most variability with regards to energy expense?
 Steam and other has the highest variability with regards to the energy expense.
 
 o	Which type of heating equipment doesn’t take all possible fuel types?
-Electric heating does not take all possible fuel types and only takes electricity or other (bottled gas, wood, etc.)
+Electric heating does not take all possible fuel types and only takes electricity or other (bottled gas, wood, etc).
 
 
 ## Task 4 -> Data Visualization
